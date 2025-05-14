@@ -57,8 +57,10 @@ __________________________
 - [ ] Build a **sentient Pthumerian dungeon generator**  
 - [ ] Learn **NixOS** (to tame the eldritch dependencies)  
 - [ ] Contribute to **Bloodborne Kart** (or another open-source project)
-### **🌕 On the Hunt For**  
-- [ ] Build a **sentient Pthumerian dungeon generator**  
-- [ ] Learn **NixOS** (to tame the eldritch dependencies)  
-- [ ] Contribute to **Bloodborne Kart** (or another open-source project)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+![Snake Game](https://raw.githubusercontent.com/f-amador/f-amador/output/github-contribution-grid-snake.svg)
