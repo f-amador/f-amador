@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif" width="300" alt="Solaire Praising the Sun">
-</p>
-
-<h1 align="center">☀️ Greetings, Traveler. I am F-amador. ☀️</h1>
-
-<p align="center">
-  <em>"If only I could be so grossly incandescent!"</em>
-</p>
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif" alt="Solaire Praising the Sun">
+  <h1 style="margin: 0; padding: 10px 0 0 0;">☀️ Greetings, Traveler. I am F-amador. ☀️</h1>
+  <p style="margin: 0; padding: 0 0 10px 0;"><em>"If only I could be so grossly incandescent!"</em></p>
+</div>
   🔭 **Currently hunting** Work with Java or C++ 
 
   
