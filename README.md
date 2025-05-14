@@ -1,10 +1,19 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/AQRapWCgC7dThyVEYb/giphy.gif" width="300" alt="Solaire Praising the Sun">
+</p>
 
-# Greetings, Traveler. I am F-amador.
+<h1 align="center">☀️ Greetings, Traveler. I am F-amador. ☀️</h1>
 
+<p align="center">
+  <em>"If only I could be so grossly incandescent!"</em>
+</p>
 
   🔭 **Currently hunting** Work with Java or C++ 
+
   
-  🌌 **Seeking knowledge in** C++ Java
+
+
+🌌 **Seeking knowledge in** C++ Java
   
   💡 **Obsessed with** Soulsborne Music Reading
   
