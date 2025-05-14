@@ -53,4 +53,4 @@ __________________________
 - [ ] Learn **NixOS** (to tame the eldritch dependencies)  
 - [ ] Contribute to **Bloodborne Kart** (or another open-source project)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&redirect=true)
