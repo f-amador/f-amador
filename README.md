@@ -13,8 +13,8 @@
   🦇 **Where to find me:** [Twitter, LinkedIn, personal site]
   
 
+___________________
 
-<h3 align="center">__________</h3>
 <h3 align="center">SUCCESSFULLY COMPLETED:<br></h3>
 <h3 align="center">
   <a href="https://github.com/f-amador/Libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img>
@@ -42,6 +42,7 @@
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
   ___________________
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-amador&layout=compact&theme=transparent&hide_border=true&title_color=e8e8e8" width="300" />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&redirect=true">
