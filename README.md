@@ -3,14 +3,12 @@
   <h1 style="margin: 0; padding: 10px 0 0 0;">☀️ Greetings, Traveler. I am F-amador. ☀️</h1>
   <p style="margin: 0; padding: 0 0 10px 0;"><em>"If only I could be so grossly incandescent!"</em></p>
 </div>
-  🔭 **Currently hunting** Work with Java or C++ 
 
+  🔭 **Currently hunting:** Work with Java or C++
   
-
-
-🌌 **Seeking knowledge in** C++ Java
+  🌌 **Seeking knowledge in:** C++ Java
   
-  💡 **Obsessed with** Soulsborne Music Reading
+  💡 **Obsessed with:** Soulsborne Music Reading
   
   📜 **Covenant:** Praise the sun  \\[T]/
   
