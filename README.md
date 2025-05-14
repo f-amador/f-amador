@@ -1,16 +1,16 @@
 
-# Greetings, Traveler. I am [Your Name].
+# Greetings, Traveler. I am F-amador.
 
 
-  🔭 **Currently hunting** [your current project/work]
+  🔭 **Currently hunting** Work with Java or C++ 
   
-  🌌 **Seeking knowledge in** [languages/tech you're learning]
+  🌌 **Seeking knowledge in** C++ Java
   
-  💡 **Obsessed with** [your passions, e.g., "AI, game dev, ancient blood magic"]
+  💡 **Obsessed with** Soulsborne Music Reading
   
-  📜 **Covenant:** [your motto, e.g., "Fear the Old Code"]
+  📜 **Covenant:** Praise the sun  \[T]/
   
-  🦇 **Where to find me:** [Twitter, LinkedIn, personal site]
+  🦇 **Where to find me:** Home
   
 
 ___________________
@@ -41,8 +41,11 @@ ___________________
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
-  ___________________
-  
+
+
+___________________
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-amador&layout=compact&theme=transparent&hide_border=true&title_color=e8e8e8" width="300" />
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&redirect=true">
