@@ -8,7 +8,7 @@
   
   💡 **Obsessed with** Soulsborne Music Reading
   
-  📜 **Covenant:** Praise the sun  \[T]/
+  📜 **Covenant:** Praise the sun  \\[T]/
   
   🦇 **Where to find me:** Home
   
