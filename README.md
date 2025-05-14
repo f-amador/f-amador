@@ -34,3 +34,23 @@ ___________________
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
 </p>
+
+__________________________
+### **📊 Hunter's Log**  
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark)  
+
+*(Use [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for these!)*  
+
+### **🌕 On the Hunt For**  
+- [ ] Build a **sentient Pthumerian dungeon generator**  
+- [ ] Learn **NixOS** (to tame the eldritch dependencies)  
+- [ ] Contribute to **Bloodborne Kart** (or another open-source project)
+### **🌕 On the Hunt For**  
+- [ ] Build a **sentient Pthumerian dungeon generator**  
+- [ ] Learn **NixOS** (to tame the eldritch dependencies)  
+- [ ] Contribute to **Bloodborne Kart** (or another open-source project)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=amilcar_alho&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
