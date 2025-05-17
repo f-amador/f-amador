@@ -4,18 +4,21 @@
   <p style="margin: 0; padding: 0 0 10px 0;"><em>"If only I could be so grossly incandescent!"</em></p>
 </div>
 
-  🔭 **Currently hunting:** Work with Java or C++
-  
-  🌌 **Seeking knowledge in:** C++ Java
-  
-  💡 **Obsessed with:** Soulsborne Music Reading
-  
-  📜 **Covenant:** Praise the sun  \\[T]/
-  
-  🦇 **Where to find me:** Home
-  
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px; flex-wrap: wrap;">
+  <div style="text-align: left;">
+    🔭 <strong>Currently hunting:</strong> Work with Java or C++<br>
+    🌌 <strong>Seeking knowledge in:</strong> C++ Java<br>
+    💡 <strong>Obsessed with:</strong> Soulsborne Music Reading<br>
+    📜 <strong>Covenant:</strong> Praise the sun \\[T]/<br>
+    🦇 <strong>Where to find me:</strong> Home
+  </div>
+  <div>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/framador?1337Badge=off&42Network=off&UM6P=off" alt="framador's 42 stats" /></a>
+  </div>
+</div>
 
 ___________________
+
 
 <h3 align="center">SUCCESSFULLY COMPLETED:<br></h3>
 <h3 align="center">
