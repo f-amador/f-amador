@@ -13,7 +13,7 @@
     🦇 <strong>Where to find me:</strong> Home
   </div>
   <div>
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/framador?1337Badge=off&42Network=off&UM6P=off" alt="framador's 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/framador?1337Badge=off&42Network=off&UM6P=off" alt="framador's 42 stats" /></a>
   </div>
 </div>
 
