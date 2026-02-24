@@ -32,6 +32,9 @@ ___________________
   <a href="https://github.com/f-amador/minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
   <a href="https://github.com/f-amador/philosophers"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosopherse.png"></img>
   <a href="https://github.com/f-amador/CPP"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
+  <a href="https://github.com/guimaleo/cub3D"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3de.png"></img></h3>
+  <a href="https://github.com/f-amador/Inception"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/inceptione.png"></img></h3>
+
 
   ___________________
 
